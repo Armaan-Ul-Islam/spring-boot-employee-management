@@ -1,10 +1,10 @@
-package com.aui.student_manager;
+package com.aui.employee_manager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StudentManagerApplicationTests {
+class EmployeeManagerApplicationTests {
 
 	@Test
 	void contextLoads() {

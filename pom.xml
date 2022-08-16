@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aui.</groupId>
-	<artifactId>student_manager</artifactId>
+	<artifactId>employee_manager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>student_manager</name>
-	<description>Student Manager Project</description>
+	<name>employee_manager</name>
+	<description>Employee Manager Project</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
